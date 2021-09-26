@@ -1,0 +1,16 @@
+.superauthor-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 15px;
+    padding: 10px 20px;
+}
+.authors-container{   
+    padding: 5px 5px;   
+}
+.grid-cloum{
+   display: grid;
+   grid-template-columns: 3fr 3fr 3fr;
+   margin-left: 20PX;
+   column-gap: 5px; 
+   margin-bottom: 10px; 
+}

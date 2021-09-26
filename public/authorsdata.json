@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "Author": "Rabindranath Tagore",
+    "Book": 460,
+    "Age": 78,
+    "Country": "India",
+    "img": "https://c8.alamy.com/comp/TRG27B/rabindranath-tagore-1861-1941-bengali-poetmusician-and-artist-about-1920-TRG27B.jpg",
+    "Born": "May 7, 1861"
+  },
+  {
+    "id": 2,
+    "Author": "Kazi Nazrul Islam",
+    "Book": 325,
+    "Age": 71,
+    "Country": "Bangladesh",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nazrul.jpg",
+    "Born": "24 May 1899"
+  },
+  {
+    "id": 3,
+    "Author": "Shamsur Rahman",
+    "Book": 240,
+    "Age": 62,
+    "Country": "Bangladesh",
+    "img": " http://eportfolios.macaulay.cuny.edu/blot13/files/2013/11/Shamsur_Rahman.jpg",
+    "Born": "23 October 1929"
+  },
+  {
+    "id": 4,
+    "Author": "Ahmed Sofa",
+    "Book": 140,
+    "Age": 75,
+    "Country": "Bangladesh",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ahmed_Sofa.jpg",
+    "Born": "11 December 1880"
+  },
+  {
+    "id": 5,
+    "Author": "Begum Rokeya",
+    "Book": 200,
+    "Age": 67,
+    "Country": "Bangladesh",
+    "img": "https://media-eng.dhakatribune.com/uploads/2018/12/begum-rokeya-1544333822152.jpg",
+    "Born": "9 December 1880"
+  },
+  {
+    "id": 6,
+    "Author": "Jasimuddin",
+    "Book": 20,
+    "Age": 70,
+    "Country": "Bangladesh",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jasimuddin_Lomax_1951_%282%29.jpg",
+    "Born": "1 January 1903"
+  },
+  {
+    "id": 7,
+    "Author": "Syed Mujtaba Ali",
+    "Book": 210,
+    "Age": 77,
+    "Country": "Bangladesh",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Mujtaba_Ali.jpg/220px-Mujtaba_Ali.jpg",
+    "Born": "13 September 1904"
+  },
+  {
+    "id": 8,
+    "Author": "Sarat Chandra Chattopadhyay",
+    "Book": 395,
+    "Age": 81,
+    "Country": "India",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg",
+    "Born": "15 September, 1876"
+  },
+  {
+    "id": 9,
+    "Author": "Al Mahmud",
+    "Book": 180,
+    "Age": 77,
+    "Country": "Bangladesh",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Al_Mahmud.jpg/220px-Al_Mahmud.jpg",
+    "Born": "11 July 1936"
+  },
+  {
+    "id": 10,
+    "Author": "Mir Mosharraf Hossain",
+    "Book": 160,
+    "Age": 83,
+    "Country": "Bangladesh",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mir_mosharraf_hossain.jpg",
+    "Born": "13 November 1950"
+  },
+  {
+    "id": 11,
+    "Author": "Rudra Mohammad Shah",
+    "Book": 120,
+    "Age": 76,
+    "Country": "Bangladesh",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rudra_Muhammad_Shahidullah.JPG",
+    "Born": "October 16, 1956"
+  },
+  {
+    "id": 12,
+    "Author": "Humayun ahmed",
+    "Book": 330,
+    "Age": 66,
+    "Country": "Bangladesh",
+    "img": "https://media-eng.dhakatribune.com/uploads/2019/11/05-n-1542040361080-1573628305900.jpg",
+    "Born": "13 November 1948"
+  }
+]

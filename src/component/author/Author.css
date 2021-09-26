@@ -1,0 +1,25 @@
+.Author-img{
+    height: 200px;
+    width: 150px;
+    border: 1px solid whitesmoke;
+    margin-top: 10px;    
+}
+.card-items{
+    height: 450px;
+    border: 2px solid black;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 10px; 
+    background-color: rgb(106, 129, 150);
+}
+.authorName{
+    color: rgb(17, 17, 15);
+}
+.Regular-btn{
+    background-color:rgb(180, 98, 43);
+    border: 1px solid pink;
+    border-radius: 10px;
+}
+.born{
+    color:rgb(41, 33, 33)
+}
